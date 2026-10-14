@@ -4,7 +4,7 @@
 
 **Design a hobby rocket in your browser and check, step by step, whether it is ready for its first flight.**
 
-[![Deploy to GitHub Pages](https://github.com/TheStevenDev/rocket-design-assistant/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/TheStevenDev/rocket-design-assistant/actions/workflows/deploy-pages.yml)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-0.186-000000?logo=threedotjs&logoColor=white)
@@ -87,18 +87,6 @@ No environment variables, API keys or external services are needed.
    ```
 5. Open the address printed in the terminal (usually <http://localhost:5173>).
 
-### Useful commands
-
-Run them inside `app/`:
-
-| Command | What it does |
-|---|---|
-| `npm run dev` | Development server with live reload |
-| `npm test` | Unit tests of the calculation modules |
-| `npm run typecheck` | TypeScript type check |
-| `npm run build` | Production build in `app/dist/` |
-| `npm run preview` | Serves the production build locally |
-| `npm run build:single` | Builds one self-contained HTML file in `app/dist-single/` that works offline |
 
 ## Deployment
 
@@ -160,6 +148,3 @@ Released under the [MIT License](LICENSE).
 
 ---
 
-### 🇮🇹 In breve
-
-Rocket Design Assistant è uno strumento web per progettare razzi amatoriali monostadio: forma, elettronica, motore e paracadute, con stima di baricentro, centro di pressione e margine statico e un'anteprima 3D. Funziona tutto nel browser, senza server né account, ed è disponibile in inglese e in italiano (selettore **IT | EN** in alto). Le stime sono semplificate e **non sostituiscono** una simulazione completa né le regole del sito di lancio.
